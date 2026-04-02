@@ -1,5 +1,5 @@
-ML-MINI-PROJECTS# 🧠 ML Mini Projects
- 📌 Project 1: Cancer Prediction
+ ML Mini Projects
+ Project 1: Cancer Prediction
 - Dataset: Breast Cancer (sklearn)
 - Model: Random Forest
 - Accuracy: ~90%
@@ -11,5 +11,5 @@ ML-MINI-PROJECTS# 🧠 ML Mini Projects
 - Google Colab
 - Pandas, NumPy
 
-🚀 Author
+ Author
 Amsavalli P
